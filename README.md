@@ -1,2 +1,3 @@
 # hello-world-repository
 Just following the README instructions ...
+" ... a bit about yourself ..."
